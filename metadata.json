@@ -1,0 +1,6 @@
+{
+  "name": "FASHION NOVA Luxury Storefront",
+  "description": "High-conversion luxury e-commerce landing page featuring tailored outfits, handcrafted footwear, and prestige timepieces with a modern minimalist aesthetic.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
